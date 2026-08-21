@@ -1,0 +1,5 @@
+interface:
+  display_name: "Kryon Blockframe 生成器"
+  short_description: "将前端模块截图转换为 Blockframe 布局规划图与代码"
+  brand_color: "#475569"
+  default_prompt: "使用 $kryon-blockframe-generator 将我提供的前端模块截图转换为 Blockframe 布局规划图。"

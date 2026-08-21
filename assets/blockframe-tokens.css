@@ -1,0 +1,19 @@
+:root {
+  --bf-canvas: #f8fafc;
+  --bf-surface: #ffffff;
+  --bf-muted: #e2e8f0;
+  --bf-line: #cbd5e1;
+  --bf-secondary: #94a3b8;
+  --bf-strong: #475569;
+
+  --bf-space-1: 8px;
+  --bf-space-2: 16px;
+  --bf-space-3: 24px;
+  --bf-space-4: 32px;
+  --bf-space-5: 40px;
+  --bf-space-6: 48px;
+
+  --bf-border-width: 1px;
+  --bf-radius: 4px;
+}
+
